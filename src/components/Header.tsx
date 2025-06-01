@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2 text-xl font-bold" aria-label="EasyShope Home">
           <Package2 size={32} />
-          <span>EasyShope</span>
+          <span>EasyShop</span>
         </Link>
         
         <div className="flex-1 flex justify-center px-4">
